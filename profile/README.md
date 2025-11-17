@@ -67,9 +67,9 @@
 |:---:|:---:|:---:|
 |     | 송은서 | PM  | 
 |     | 함다온 | Design | 
-|     | 김다은 | FE | 
-| <img style="width: 3em" src="https://avatars.githubusercontent.com/u/163238859?s=96&v=4"/> | 김기웅 | BE | 
-| <img style="width: 3em" src="https://avatars.githubusercontent.com/u/51752838?v=4"> | 최준혁 | BE | 
+| <img style="width: 3em" src="https://avatars.githubusercontent.com/u/194606538?v=4"/><br/>fs6-kde | 김다은 | FE | 
+| <img style="width: 3em" src="https://avatars.githubusercontent.com/u/163238859?s=96&v=4"/><br/>KiwoongKim-1227 | 김기웅 | BE | 
+| <img style="width: 3em" src="https://avatars.githubusercontent.com/u/51752838?v=4"><br/>nmmn1004 | 최준혁 | BE | 
 
 ---
 ## ⚙️ 기술 스택
